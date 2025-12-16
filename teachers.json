@@ -1,0 +1,14 @@
+[
+  {
+    "account": "admin",
+    "password": "123",
+    "name": "云端王老师",
+    "role": "teacher"
+  },
+  {
+    "account": "t02",
+    "password": "123",
+    "name": "李教授",
+    "role": "teacher"
+  }
+]
