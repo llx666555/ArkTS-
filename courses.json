@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "云端-高等数学",
+    "room": "A505(改)",
+    "teacher": "张教授",
+    "day": 1,
+    "start": 1,
+    "duration": 2,
+    "color": "#FF5252"
+  },
+  {
+    "id": 2,
+    "name": "云端-鸿蒙开发",
+    "room": "B302",
+    "teacher": "华为专家",
+    "day": 1,
+    "start": 3,
+    "duration": 2,
+    "color": "#61D2D6"
+  },
+  {
+    "id": 3,
+    "name": "云端-大学英语",
+    "room": "C101",
+    "teacher": "Smith",
+    "day": 2,
+    "start": 1,
+    "duration": 2,
+    "color": "#FFB74D"
+  }
+]
