@@ -1,0 +1,20 @@
+[
+  {
+    "account": "stu01",
+    "password": "123",
+    "name": "刘玲昕",
+    "role": "student"
+  },
+  {
+    "account": "stu02",
+    "password": "123",
+    "name": "蔡仁航",
+    "role": "student"
+  },
+  {
+    "account": "stu03",
+    "password": "123",
+    "name": "新同学",
+    "role": "student"
+  }
+]
