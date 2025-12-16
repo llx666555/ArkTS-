@@ -10,6 +10,16 @@
     "color": "#FF5252"
   },
   {
+    "id": 4,
+    "name": "高等数学(新增)",
+    "room": "A505",
+    "teacher": "张老师",
+    "day": 2,
+    "start": 3,
+    "duration": 2,
+    "color": "#FF5252"
+  },
+  {
     "id": 2,
     "name": "云端-鸿蒙开发",
     "room": "B302",
@@ -29,14 +39,4 @@
     "duration": 2,
     "color": "#FFB74D"
   }
-    {
-    "id": 4,
-    "name": "高等数学",
-    "room": "A505",
-    "teacher": "张d'd'd",
-    "day": 2,
-    "start": 3,
-    "duration": 2,
-    "color": "#FF5252"
-  },
 ]
